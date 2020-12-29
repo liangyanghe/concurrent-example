@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>example.concurrent</groupId>
+    <artifactId>concurrent</artifactId>
+    <name>mango</name>
+
+    <developers>
+        <developer>
+            <name>ash</name>
+            <email>ash266@163.com</email>
+            <url>http://github.com/liangyanghe</url>
+        </developer>
+    </developers>
+
+    <dependencies>
+    </dependencies>
+</project>
